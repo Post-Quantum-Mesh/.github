@@ -2,14 +2,6 @@
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
-- [Components](https://github.com/Post-Quantum-Mesh#components)
-  - [OQS Library/TLS Protocol](https://github.com/Post-Quantum-Mesh#quantum-resistant-librarytls-protocol)
-  - [NGINX](https://github.com/Post-Quantum-Mesh#nginx-build)
-  - [Envoy](https://github.com/Post-Quantum-Mesh#envoy-build)
-  - [Istio](https://github.com/Post-Quantum-Mesh#istio-build)
-- [Team]()
-
-
 ## Components
 
 ### Quantum-Resistant Library/TLS Protocol
