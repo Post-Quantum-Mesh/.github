@@ -5,9 +5,9 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 ## Components
 
 ### Quantum-Resistant Library/TLS Protocol
-- [liboqs](https://github.com/open-quantum-safe/liboqs)
-- [openssl-liboqs fork](https://github.com/open-quantum-safe/openssl)
-- [openssl-1.1.1](https://github.com/openssl/openssl/tree/OpenSSL_1_1_1-stable)
+- [LibOQS](https://github.com/open-quantum-safe/liboqs)
+- [OpenSSL-LibOQS fork](https://github.com/open-quantum-safe/openssl)
+- [OpenSSL-1.1.1](https://github.com/openssl/openssl/tree/OpenSSL_1_1_1-stable)
 
 
 ### NGINX Build: [Repo](https://github.com/Post-Quantum-Mesh/nginx-oqs)
