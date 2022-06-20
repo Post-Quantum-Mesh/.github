@@ -2,11 +2,11 @@
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
-- [Components]()
-  - [OQS Library/TLS Protocol]()
-  - [NGINX]()
-  - [Envoy]()
-  - [Istio]()
+- [Components](https://github.com/Post-Quantum-Mesh#components)
+  - [OQS Library/TLS Protocol](https://github.com/Post-Quantum-Mesh#quantum-resistant-librarytls-protocol)
+  - [NGINX](https://github.com/Post-Quantum-Mesh#nginx-build)
+  - [Envoy](https://github.com/Post-Quantum-Mesh#envoy-build)
+  - [Istio](https://github.com/Post-Quantum-Mesh#istio-build)
 - [Team]()
 
 
@@ -22,28 +22,13 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 - [NGINX-1.20.0 open source](https://github.com/nginx/nginx/tree/branches/stable-1.20)
 - [Set-up instructions](https://github.com/Post-Quantum-Mesh/nginx-oqs#local-environment-setup)
 
-### Envoy Build (in progress)
+### Envoy Build
 - [Envoy-1.21 open source](https://github.com/envoyproxy/envoy/tree/release/v1.21)
 - Set-up instructions
 
-### Istio Build (in progress)
+### Istio Build
 - [Istio-1.14 open source](https://github.com/istio/istio/tree/release-1.14)
 - Set-up instructions
-
-
-## Overview
-
-### NGINX-OQS L7 Proxy
-
-![NGINX TLS Handshake Diagram](https://drive.google.com/uc?id=1hASfFvcxFHRVDw9Yi2F1NEN0hPWkRAAN)
-
-## Quick Start
-
-### Local Environment Setup Instructions
-
-- [NGINX set-up instructions](https://github.com/Post-Quantum-Mesh/nginx-oqs#local-environment-setup)
-- Envoy set-up instructions
-- Istio set-up instructions
 
 ## Team
 
