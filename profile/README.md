@@ -1,4 +1,4 @@
-# Post-Quantum Prototype Service Mesh
+# Post-Quantum Service Mesh Prototype
 
 Open source implementation of quantum-resistant encryption algorithms for modular TLS communication
 
