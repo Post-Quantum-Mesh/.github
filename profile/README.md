@@ -22,6 +22,9 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 - [Istio-1.14 open source](https://github.com/istio/istio/tree/release-1.14)
 - Set-up instructions
 
+### Benchmarking: [Repo](https://github.com/Post-Quantum-Mesh/benchmarking)
+- [Set-up instructions](https://github.com/Post-Quantum-Mesh/benchmarking#quick-start)
+
 ## Team
 
 This project is undertaken in co-operation between Washington State University and F5.
