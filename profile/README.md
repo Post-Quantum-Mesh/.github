@@ -15,11 +15,11 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 - [Set-up instructions](https://github.com/Post-Quantum-Mesh/nginx-oqs#local-environment-setup)
 
 ### Envoy Build: [Repo](https://github.com/Post-Quantum-Mesh/envoy-oqs)
-- [Envoy-1.21 open source](https://github.com/envoyproxy/envoy/tree/release/v1.21)
+- [Envoy-1.23 open source](https://github.com/drouhana/envoy)
 - [Set-up instructions](https://github.com/Post-Quantum-Mesh/envoy-oqs#local-environment-setup)
 
 ### Istio Build: [Repo](https://github.com/Post-Quantum-Mesh/istio-oqs)
-- [Istio-1.14 open source](https://github.com/istio/istio/tree/release-1.14)
+- [Istio-1.15 open source](https://github.com/istio/istio/tree/release-1.15)
 - Set-up instructions
 
 ### Benchmarking: [Repo](https://github.com/Post-Quantum-Mesh/benchmarking)
