@@ -29,9 +29,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ## Team
 
-This project is undertaken in co-operation between Washington State University and F5.
-
-- Daniel Rouhana - Washington State University
+- Daniel Rouhana
   - [Github](https://github.com/drouhana)
   - [Linkedin](https://www.linkedin.com/in/rouhana/)
 - Emma Dickenson - Washington State University
