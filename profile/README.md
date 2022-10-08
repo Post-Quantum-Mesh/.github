@@ -20,7 +20,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ### Istio Build: [Repo](https://github.com/Post-Quantum-Mesh/istio-oqs)
 - [Istio-1.15 open source](https://github.com/istio/istio/tree/release-1.15)
-- Set-up instructions
+- [Set-up instructions](https://github.com/Post-Quantum-Mesh/istio-oqs#quick-install-demo)
 
 ### Benchmarking: [Repo](https://github.com/Post-Quantum-Mesh/benchmarking)
 - [Set-up instructions](https://github.com/Post-Quantum-Mesh/benchmarking#quick-start)
