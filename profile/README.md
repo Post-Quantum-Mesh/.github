@@ -29,7 +29,7 @@ Open source implementation of quantum-resistant encryption algorithms for modula
 
 ## Team
 
-- Dan Rouhana - University of Washington
+- Dan - University of Washington
   - [Github](https://github.com/dr7ana)
   - [Linkedin](https://www.linkedin.com/in/rouhana/)
 - Emma Dickenson - Washington State University
